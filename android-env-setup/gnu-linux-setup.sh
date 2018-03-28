@@ -23,7 +23,7 @@ ANDROID_SDK_BUILD_TOOLS_VERSION=23.0.2
 # 此开关控制是否要安装Android Studio
 # 如果您用于桌面环境，通常是用于开发的，开启的可能行很大
 # 如果您用于持续构建服务器，通常是不需要安装的，把此开发改为false即可
-ANDROID_STUDIO_NEED=true
+ANDROID_STUDIO_NEED=false
 
 # 查看要安装的版本：
 # http://tools.android.com/download/studio/canary
